@@ -1,3 +1,7 @@
+This is my homework, ["Click here"](https://replit.com/@WaritsaraPathom/Bootcamp-Homework-SQL#main.sql)
+
+
+
 1. (ใช้ WITH) รายการอาหารที่ได้ขายให้กับลูกค้า
 
    <img width="419" alt="Screenshot 2023-08-10 at 7 42 32 PM" src="https://github.com/wrtsr/DataScienceBootcamp07/assets/136925108/fa855de0-f0d8-4a54-bbd9-36287686193f">
