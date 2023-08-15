@@ -6,7 +6,7 @@ My projects in bootcamp
 - SQL
 - R Programming
 - Data Transformation
-- Data Vizualization
+- Data Visualization
 - Essential Statistics
 - Essential Machine Learning
 - Python
