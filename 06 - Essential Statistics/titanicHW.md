@@ -1,4 +1,4 @@
-### titanic_train Dataset: Prediction of Survived using Pclass, Sex, Age as independent variables
+### titanic_train Dataset: Prediction of Survived using Pclass, Sex, Age as independent variables by Logistic Regression
 <br /><br />
 Probability and Prediction Values of Train Dataset
 <br /><br />
