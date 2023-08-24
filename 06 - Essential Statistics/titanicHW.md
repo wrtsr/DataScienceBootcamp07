@@ -11,4 +11,5 @@ Probability and Prediction Values of Test Dataset
 
 <br /><br /><br />
 
-<br /><img width="303" alt="Screenshot 2023-08-20 at 9 32 45 PM" src="https://github.com/wrtsr/DataScienceBootcamp07/assets/136925108/e1d0d238-a75f-46d3-8ec7-02bbb26eacad">
+<br />
+<img width="573" alt="Screenshot 2023-08-24 at 11 34 55 AM" src="https://github.com/wrtsr/DataScienceBootcamp07/assets/136925108/eb9a2a93-f1fe-4c01-ac96-c94cde332301">
