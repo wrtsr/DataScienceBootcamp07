@@ -80,7 +80,7 @@ f1_test <- f1(precision_test, recall_test)
 
 
 ## Print Result
-cat("Train Dataset Evaluation",
+cat("Train Score",
     "\n Accuracy:", acc_train,
     "\n Precision:", precision_train,
     "\n Recall:", recall_train,
