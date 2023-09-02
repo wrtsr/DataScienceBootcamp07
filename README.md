@@ -13,4 +13,5 @@ My projects in bootcamp
 - Python for Data Analyst
 - Dashboard
 
-*Badge*
+![Certified Professional Data Analyst Digital Badge](https://github.com/wrtsr/DataScienceBootcamp07/assets/136925108/5418f0b9-ae9e-4906-8b59-8fb9b4f58efb)
+
