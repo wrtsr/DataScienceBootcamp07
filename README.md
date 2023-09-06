@@ -13,4 +13,7 @@ My projects in bootcamp
 - Python for Data Analyst
 - Dashboard
 
+
+[Digital Badge](https://badgr.com/public/assertions/2ZrE09i9SwuZ1PxkXm8E5w?identity__email=waritsara.path@gmail.com)
+
 ![Certified Professional Data Analyst Digital Badge](https://github.com/wrtsr/DataScienceBootcamp07/assets/136925108/5418f0b9-ae9e-4906-8b59-8fb9b4f58efb)
